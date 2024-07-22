@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansaksena&label=Profile%20views&color=0e75b6&style=flat" alt="rohansaksena" /> </p>
 
-- 🌱 I’m currently learning **Pandas , Numpy , SQL, Seaborn**
+- 🌱 I’m currently learning **Node.js React.js**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
